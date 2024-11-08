@@ -1,1 +1,0 @@
-{"createdAt":"2024-11-08T19:57:24.687Z","updatedAt":"2024-11-08T19:57:24.687Z","id":"ZWcb9BD1OrySewEC","name":"My workflow","active":false,"nodes":[],"connections":{},"settings":{},"staticData":null,"meta":null,"pinData":null,"versionId":"58e9635d-b2fc-4243-99c0-c08791d65ccc","triggerCount":0,"tags":[]}
